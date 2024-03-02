@@ -1,0 +1,939 @@
+# Translation of Plugins - Pets - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Pets - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-07-16 04:52:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Pets - Development (trunk)\n"
+
+#: includes/admin/settings/class-settings.php:412
+msgid "Draft"
+msgstr "Borrador"
+
+#: includes/admin/settings/class-settings.php:411
+msgid "Publish"
+msgstr "Publicado"
+
+#: includes/admin/settings/class-settings.php:408
+msgid "Status to be assigned when a new pet is added through form"
+msgstr "Estado que se asignará cuando se añada una nueva mascota a través del formulario"
+
+#: includes/admin/settings/class-settings.php:407
+msgid "New Pet Status"
+msgstr "Nuevo estado de mascota"
+
+#: includes/admin/settings/class-settings.php:401
+msgid "Notify on a new Pet"
+msgstr "Avisar sobre una nueva mascota"
+
+#: includes/admin/settings/class-settings.php:395
+msgid "Notify on a new Missing Pet"
+msgstr "Avisar sobre una nueva mascota perdida"
+
+#: includes/widgets/class-widgets-add.php:22
+msgid "Form to add new pets"
+msgstr "Formulario para añadir nuevas mascotas"
+
+#: includes/widgets/class-widgets-add.php:21
+msgid "Pet - Add"
+msgstr "Mascota - Añadir"
+
+#: includes/class-pets-emails.php:30
+msgid "New Pet Added"
+msgstr "Nueva mascota añadida"
+
+#: includes/class-pets-emails.php:28 includes/class-pets-emails.php:42
+msgid "You can view the pet information at: %s "
+msgstr "Puede ver la información sobre mascotas en: %s "
+
+#: includes/class-pets-emails.php:27
+msgid "Hi, there is a new pet that was added on your site."
+msgstr "Hola, se agregó una nueva mascota en su sitio."
+
+#: templates/add-form.php:45
+msgid "Add a Pet"
+msgstr "Añadir una mascota"
+
+#: includes/admin/settings/class-settings.php:398
+#: includes/admin/settings/class-settings.php:404
+msgid "Enter emails separated by comma to notify"
+msgstr "Introduce los correos electrónicos a los que avisar separados por comas"
+
+#: includes/class-pets-emails.php:44
+msgid "Missing Pet Added"
+msgstr "Añadida mascota perdida"
+
+#: includes/class-pets-emails.php:41
+msgid "Hi, there is a new missing pet that was added on your site."
+msgstr "Hola, hay una nueva mascota perdida que se ha añadido a tu sitio."
+
+#: includes/widgets/class-widgets-add.php:55
+msgid "Add a New Pet"
+msgstr "Añadir una nueva mascota"
+
+#: includes/admin/post-types/class-pets-type.php:123
+msgid "Set to Missing"
+msgstr "Establecer como perdido"
+
+#: includes/admin/post-types/class-pets-type.php:61
+msgid "Missing Pet"
+msgstr "Mascota perdida"
+
+#: includes/admin/post-types/class-pets-type.php:43
+msgid "%s pet set to published."
+msgid_plural "%s pets are set to published."
+msgstr[0] "%s mascota establecida como publicada."
+msgstr[1] "%s mascotas establecidas como publicadas."
+
+#: includes/admin/post-types/class-pets-type.php:33
+msgid "%s pet set to missing."
+msgid_plural "%s pets are set to missing."
+msgstr[0] "%s mascota establecida como perdida."
+msgstr[1] "%s mascotas establecidas como perdidas."
+
+#: includes/class-pets-cpt.php:135
+msgctxt "pet"
+msgid "Missing"
+msgstr "Perdido"
+
+#: includes/widgets/class-widgets-add-missing.php:78
+#: includes/widgets/class-widgets-add.php:78
+msgid "Report a Pet"
+msgstr "Informar de una mascota"
+
+#: includes/admin/post-types/class-pets-type.php:124
+msgid "Set to Published"
+msgstr "Establecer como publicado"
+
+#: includes/admin/settings/class-settings.php:390
+msgid "Show Missing Pets in Search?"
+msgstr "¿Mostrar las mascotas perdidas en la búsqueda?"
+
+#: includes/class-pets-cpt.php:140
+msgid "Missing <span class=\"count\">(%s)</span>"
+msgid_plural "Missing <span class=\"count\">(%s)</span>"
+msgstr[0] "Perdida <span class=\"count\">(%s)</span>"
+msgstr[1] "Perdidas <span class=\"count\">(%s)</span>"
+
+#: includes/class-pets-add.php:101 includes/class-pets-missing.php:101
+msgid "Pet Description is required"
+msgstr "Es necesaria la descripción de la mascota"
+
+#: includes/class-pets-missing.php:117
+msgid "Missing Pet was added"
+msgstr "Ha sido añadida una mascota perdida"
+
+#: includes/class-pets-add.php:127 includes/class-pets-missing.php:127
+msgid "Pet image could not be uploaded. Reason: %s"
+msgstr "La imagen de la mascota no se ha podido subir. Razón: %s"
+
+#: includes/class-pets-add.php:94 includes/class-pets-missing.php:94
+msgid "Pet Name is required"
+msgstr "Es necesario el nombre de la mascota"
+
+#: includes/integrations/class-petfinder.php:166
+msgid "To Check all shortcode Atts, visit this link."
+msgstr "Para comprobar todos los atributos del shortcode, visita este enlace."
+
+#: includes/widgets/class-widgets-add-missing.php:21
+msgid "Pet - Add Missing"
+msgstr "Mascota - Añadir perdida"
+
+#: includes/widgets/class-widgets-add-missing.php:22
+msgid "Form to add missing pets"
+msgstr "Formulario para añadir mascotas perdidas"
+
+#: includes/widgets/class-widgets-add-missing.php:55
+msgid "Report a missing Pet"
+msgstr "Informar de una mascota perdida"
+
+#: templates/archive/single.php:22
+msgid "Missing"
+msgstr "Perdidas"
+
+#: templates/add-form.php:18 templates/add-form.php:19
+#: templates/missing-form.php:18 templates/missing-form.php:19
+msgid "Pet Name"
+msgstr "Nombre de la mascota"
+
+#: templates/add-form.php:23 templates/add-form.php:24
+#: templates/missing-form.php:23 templates/missing-form.php:24
+msgid "Pet Description"
+msgstr "Descripción de la mascota"
+
+#: templates/add-form.php:28 templates/missing-form.php:28
+msgid "Pet Image"
+msgstr "Imagen de la mascota"
+
+#: templates/missing-form.php:45
+msgid "Add Missing Pet"
+msgstr "Añadir una mascota perdida"
+
+#: includes/admin/class-pets-fields-table.php:103
+msgid "Multiple Search:"
+msgstr "Búsqueda múltiple:"
+
+#: includes/integrations/class-petfinder.php:141
+msgid "Petfinder"
+msgstr "Petfinder"
+
+#: templates/shortcode/petfinder.php:156 templates/shortcode/pets.php:156
+msgid "Total Pages:"
+msgstr "Páginas totales:"
+
+#: includes/admin/settings/views/fields/form.php:81
+msgid "If searchable, allow multiple selection in the search form. Works for fields with options (Radio, Dropdown)."
+msgstr "Si se puede buscar, permite la selección múltiple en el formulario de búsqueda. Funciona para los campos con opciones (radio, desplegable)."
+
+#: includes/integrations/class-petfinder.php:154
+msgid "Petfinder API Key"
+msgstr "Clave de la API de Petfinder"
+
+#: includes/integrations/class-petfinder.php:158
+msgid "Petfinder API Secret"
+msgstr "Clave secreta de la API de Petfinder"
+
+#: includes/integrations/class-petfinder.php:162
+msgid "Petfinder Organization ID"
+msgstr "ID de organización de Petfinder"
+
+#: templates/search-form.php:96
+msgid "Location"
+msgstr "Ubicación"
+
+#: includes/class-pets-cpt.php:206
+msgid "Location list"
+msgstr "Lista de ubicaciones"
+
+#: includes/class-pets-cpt.php:203
+msgid "Search Locations"
+msgstr "Buscar ubicaciones"
+
+#: includes/class-pets-cpt.php:202
+msgid "Popular Locations"
+msgstr "Ubicaciones populares"
+
+#: includes/class-pets-cpt.php:200
+msgid "Add or remove Location"
+msgstr "Agregar o remover ubicación"
+
+#: includes/class-pets-cpt.php:199
+msgid "Separate Locations with commas"
+msgstr "Separar ubicación por \",\""
+
+#: includes/class-pets-cpt.php:198
+msgid "View Location"
+msgstr "Ver ubicación"
+
+#: includes/class-pets-cpt.php:197
+msgid "Update Location"
+msgstr "Ubicación actualizada"
+
+#: includes/class-pets-cpt.php:196
+msgid "Edit Location"
+msgstr "Editar ubicación"
+
+#: includes/class-pets-cpt.php:195
+msgid "Add New Location"
+msgstr "Agregar nueva ubicación"
+
+#: includes/class-pets-cpt.php:194
+msgid "New Location Name"
+msgstr "Nombre de la nueva ubicación"
+
+#: includes/class-pets-cpt.php:191 templates/search-form.php:99
+msgid "All Locations"
+msgstr "Todas las ubicaciones"
+
+#: includes/class-pets-cpt.php:190
+msgid "Locations"
+msgstr "Ubicaciones"
+
+#: includes/class-pets-cpt.php:189
+msgctxt "Taxonomy Singular Name"
+msgid "Location"
+msgstr "Ubicación "
+
+#: includes/class-pets-cpt.php:188
+msgctxt "Taxonomy General Name"
+msgid "Locations"
+msgstr "Ubicaciones"
+
+#: includes/admin/settings/views/fields/form.php:78
+msgid "If checked, it will appear in the search form."
+msgstr "Si está marcado, aparecerá en el formulario de búsqueda."
+
+#: includes/admin/settings/views/fields/form.php:75
+msgid "Searchable?"
+msgstr "¿Se puede buscar?"
+
+#: includes/class-pets-cpt.php:205
+msgid "No Locations"
+msgstr "No hay ubicaciones"
+
+#: includes/admin/class-pets-fields-table.php:40
+msgid "Searchable"
+msgstr "Se puede buscar"
+
+#: includes/admin/settings/class-settings.php:385
+msgid "Location in Search?"
+msgstr "¿Mostrar ubicación en la búsqueda?"
+
+#: includes/class-pets-cpt.php:207
+msgid "Location list navigation"
+msgstr "Navegación por la lista de ubicaciones"
+
+#: includes/class-pets-cpt.php:192
+msgid "Parent Location"
+msgstr "Ubicación principal"
+
+#: includes/class-pets-cpt.php:193
+msgid "Parent Location:"
+msgstr "Ubicación principal:"
+
+#: includes/widgets/class-widgets-search.php:22
+msgid "Pet Search"
+msgstr "Buscar mascota"
+
+#: includes/class-pets-cpt.php:165
+msgid "Search Sponsors"
+msgstr "Buscar patrocinadores"
+
+#: includes/class-pets-cpt.php:164
+msgid "Popular Sponsors"
+msgstr "Patrocinadores populares"
+
+#: includes/class-pets-cpt.php:162
+msgid "Add or remove Sponsors"
+msgstr "Agregar o remover patrocinador"
+
+#: includes/class-pets-cpt.php:161
+msgid "Separate Sponsors with commas"
+msgstr "Separar patrocinador con \",\""
+
+#: includes/class-pets-cpt.php:160
+msgid "View Sponsor"
+msgstr "Ver patrocinador"
+
+#: includes/class-pets-cpt.php:159
+msgid "Update Sponsor"
+msgstr "Actualizar patrocinador"
+
+#: includes/class-pets-cpt.php:158
+msgid "Edit Sponsor"
+msgstr "Editar patrocinador"
+
+#: includes/class-pets-cpt.php:157
+msgid "Add New Sponsor"
+msgstr "Agregar nuevo patrocinador"
+
+#: includes/class-pets-cpt.php:156
+msgid "New Sponsor Name"
+msgstr "Nombre del nuevo patrocinador"
+
+#: includes/class-pets-cpt.php:151
+msgctxt "Taxonomy Singular Name"
+msgid "Sponsor"
+msgstr "Patrocinador"
+
+#: includes/class-pets-cpt.php:150
+msgctxt "Taxonomy General Name"
+msgid "Sponsors"
+msgstr "Patrocinadores"
+
+#: includes/admin/settings/class-settings.php:428
+msgid "Show Sponsors"
+msgstr "Mostrar patrocinadores"
+
+#: includes/admin/settings/class-settings.php:112
+#: includes/class-pets-cpt.php:152 templates/single/sponsors.php:10
+msgid "Sponsors"
+msgstr "Patrocinadores"
+
+#: includes/widgets/class-widgets-search.php:23
+msgid "Search form for pets."
+msgstr "Formulario de búsqueda para mascotas"
+
+#: includes/class-pets-cpt.php:168
+msgid "Sponsors list"
+msgstr "Lista de patrocinadores "
+
+#: includes/class-pets-cpt.php:167
+msgid "No Sponsors"
+msgstr "No hay patrocinadores "
+
+#: includes/class-pets-cpt.php:166 includes/class-pets-cpt.php:204
+msgid "Not Found"
+msgstr "No se encontró"
+
+#: includes/class-pets-cpt.php:163 includes/class-pets-cpt.php:201
+msgid "Choose from the most used"
+msgstr "Elegir de los más usados"
+
+#: includes/class-pets-cpt.php:153
+msgid "All Sponsors"
+msgstr "Todos los patrocinadores "
+
+#: templates/single/sponsors.php:16
+msgid "Sponsored: %d"
+msgstr "Patrocinado: %d"
+
+#: includes/class-pets-cpt.php:169
+msgid "Sponsors list navigation"
+msgstr "Navegación por la lista de patrocinadores"
+
+#: includes/class-pets-cpt.php:154
+msgid "Parent Sponsor"
+msgstr "Patrocinador principal"
+
+#: includes/class-pets-cpt.php:155
+msgid "Parent Sponsor:"
+msgstr "Patrocinador principal:"
+
+#: includes/admin/settings/views/fields/form-sections.php:28
+msgid "Edit Section"
+msgstr "Editar sección"
+
+#: includes/admin/settings/views/fields/form-sections.php:14
+msgid "New Section"
+msgstr "Nueva sección"
+
+#: includes/admin/class-pets-fields-sections-table.php:21
+#: includes/admin/settings/class-settings-fields.php:48
+#: includes/admin/settings/views/fields/form.php:92
+msgid "Sections"
+msgstr "Secciones"
+
+#: includes/admin/class-pets-fields-sections-table.php:20
+#: includes/admin/class-pets-fields-table.php:39
+msgid "Section"
+msgstr "Sección"
+
+#: includes/admin/settings/views/fields/form-sections.php:98
+msgid "Add Image"
+msgstr "Agregar imagen"
+
+#: includes/admin/settings/views/fields/form-sections.php:15
+msgid "Add Section"
+msgstr "Agregar sección"
+
+#: includes/admin/class-pets-fields-sections-table.php:36
+#: includes/admin/settings/views/fields/form-sections.php:56
+msgid "Icon"
+msgstr "Icono"
+
+#: includes/admin/settings/views/fields/form-sections.php:96
+msgid "Or select an image using the button below."
+msgstr "O selecciona una imagen usando el botón de abajo"
+
+#: includes/admin/settings/class-settings-fields.php:206
+msgid "Section Title Empty."
+msgstr "Título de la sección vacío."
+
+#: includes/admin/settings/class-settings-fields.php:242
+msgid "Field Section Created."
+msgstr "Sección de campo creada."
+
+#: includes/admin/settings/views/fields/form-sections.php:96
+msgid "Check the Fontawesome FREE Icons and copy the whole class in here to use them."
+msgstr "Échale un vistazo a los iconos GRATUITOS de Font Awesome y copia aquí la clase completa para usarlos."
+
+#: templates/search-form.php:72
+msgid "Color"
+msgstr "Color"
+
+#: includes/widgets/class-widgets-single-pet.php:98
+msgid "Pet:"
+msgstr "Mascota:"
+
+#: includes/widgets/class-widgets-add-missing.php:58
+#: includes/widgets/class-widgets-add.php:58
+#: includes/widgets/class-widgets-search.php:59
+#: includes/widgets/class-widgets-single-pet.php:92
+msgid "Title:"
+msgstr "Titulo:"
+
+#: includes/widgets/class-widgets-search.php:56
+#: includes/widgets/class-widgets-single-pet.php:83
+#: includes/widgets/class-widgets-single-pet.php:129
+msgid "A Pet"
+msgstr "Una mascota"
+
+#: includes/integrations/class-give.php:195
+msgid "Form"
+msgstr "Formulario"
+
+#: includes/admin/settings/class-settings.php:371
+msgid "Pets per Page"
+msgstr "Mascotas por página"
+
+#: includes/widgets/class-widgets-single-pet.php:101
+msgid "Random Pet"
+msgstr "Mascota aleatoria"
+
+#: includes/widgets/class-widgets-single-pet.php:22
+msgid "Single Pet"
+msgstr "Una mascota"
+
+#: includes/integrations/class-give.php:196
+msgid "Link to donation form"
+msgstr "Enlace al formulario de donación "
+
+#: includes/admin/settings/class-settings.php:38
+msgid "Settings Updated"
+msgstr "Ajustes guardados"
+
+#: templates/archive/not-found.php:9
+msgid "No Pet Found"
+msgstr "No se contraton mascotas"
+
+#: includes/widgets/class-widgets-single-pet.php:23
+msgid "Show a single pet."
+msgstr "Muestra una sola mascota"
+
+#: templates/search-form.php:57
+msgid "All Breeds"
+msgstr "Todas las razas"
+
+#: includes/integrations/class-give.php:193
+msgid "Show form on a Pet Page as"
+msgstr "Mostrar formulario en la página de mascotas como"
+
+#: includes/admin/class-pets-fields-table.php:62
+#: includes/admin/class-pets-fields-table.php:71
+#: includes/admin/class-pets-fields-table.php:103
+#: includes/admin/settings/class-settings.php:285
+#: includes/class-pets-fields.php:91 templates/search-form.php:140
+msgid "Yes"
+msgstr "Si"
+
+#: includes/admin/class-pets-fields-table.php:62
+#: includes/admin/class-pets-fields-table.php:71
+#: includes/admin/settings/class-settings.php:285
+#: includes/class-pets-fields.php:93 templates/search-form.php:140
+msgid "No"
+msgstr "No"
+
+#: includes/admin/class-pets-fields-sections-table.php:35
+#: includes/admin/class-pets-fields-table.php:36
+#: includes/admin/settings/views/fields/form-sections.php:47
+#: includes/admin/settings/views/fields/form.php:64
+msgid "Title"
+msgstr "Título"
+
+#: includes/admin/class-pets-fields-table.php:37
+#: includes/admin/settings/views/fields/form.php:106
+msgid "Type"
+msgstr "Tipo"
+
+#: includes/integrations/class-give.php:227
+msgid "Select a Pet"
+msgstr "Selecciona una mascota"
+
+#: includes/class-pets-cpt.php:239
+msgid "Pet published. <a href=\"%s\">View Pet</a>"
+msgstr "Mascota publicada. <a href=\"%s\">Ver mascota</a>"
+
+#: includes/class-pets-cpt.php:236
+msgid "Pet updated."
+msgstr "Mascota actualizada."
+
+#: includes/class-pets-cpt.php:233
+msgid "Pet updated. <a target=\"_blank\" href=\"%s\">View Pet</a>"
+msgstr "Mascota actualizada. <a target=\"_blank\" href=\"%s\">Ver mascota</a>"
+
+#: includes/class-pets-cpt.php:112 includes/class-pets-cpt.php:113
+msgid "New Color"
+msgstr "Color nuevo"
+
+#: includes/class-pets-cpt.php:111
+msgid "Update Color"
+msgstr "Color actualizado"
+
+#: includes/class-pets-cpt.php:110
+msgid "Edit Color"
+msgstr "Editar color"
+
+#: includes/class-pets-cpt.php:105
+msgid "Search Colors"
+msgstr "Buscar colores"
+
+#: includes/class-pets-cpt.php:104
+msgctxt "taxonomy general name"
+msgid "Color"
+msgstr "Color"
+
+#: includes/class-pets-cpt.php:103 includes/class-pets-cpt.php:118
+msgid "Colors"
+msgstr "Colores"
+
+#: includes/class-pets-cpt.php:31 includes/widgets/class-widgets-search.php:79
+#: templates/search-form.php:185
+msgid "Search Pets"
+msgstr "Buscar mascotas"
+
+#: includes/class-pets-cpt.php:30
+msgid "View Pets"
+msgstr "Ver mascotas"
+
+#: includes/class-pets-cpt.php:29
+msgid "Edit Pets"
+msgstr "Editar mascotas"
+
+#: includes/class-pets-cpt.php:25
+msgid "All Pets"
+msgstr "Todas las mascotas"
+
+#. Plugin Name of the plugin
+#: includes/admin/post-types/class-pets-sponsors.php:18
+#: includes/class-pets-cpt.php:23 includes/class-pets-cpt.php:24
+#: includes/class-pets-cpt.php:35
+msgid "Pets"
+msgstr "Mascotas"
+
+#: includes/admin/class-admin.php:79 includes/admin/class-admin.php:80
+msgid "Settings"
+msgstr "Ajustes"
+
+#: includes/admin/class-admin.php:69
+#: includes/admin/class-pets-fields-table.php:116
+#: includes/admin/settings/views/fields/form.php:94
+#: includes/class-pets-fields.php:57 includes/class-pets-pet.php:152
+msgid "Information"
+msgstr "Información"
+
+#: includes/class-pets-fields.php:170
+msgid "Text Area"
+msgstr "Area de texto"
+
+#: includes/class-pets-cpt.php:240
+msgid "Pet saved."
+msgstr "Mascota guardada."
+
+#: includes/integrations/class-give.php:251
+msgid "Donating for %s"
+msgstr "Donando para %s"
+
+#: includes/admin/settings/class-settings.php:316
+#: includes/integrations/class-give.php:72
+#: includes/integrations/class-give.php:90 templates/search-form.php:159
+msgid "All"
+msgstr "Todo"
+
+#: includes/integrations/class-give.php:54
+msgid "Donate for %s"
+msgstr "Dona para %s"
+
+#: includes/class-pets-fields.php:235
+msgid "Select an option"
+msgstr "Selecciona una opción "
+
+#: includes/integrations/class-give.php:188
+msgid "Give Donation Form"
+msgstr "Formulario de donación de Give"
+
+#: includes/integrations/class-give.php:232
+msgid "Donate for all"
+msgstr "Donar para todos"
+
+#: includes/class-pets-pet.php:172
+msgid "Color(s)"
+msgstr "Color(es)"
+
+#: includes/class-pets-fields.php:154
+msgid "Text"
+msgstr "Texto"
+
+#. translators: %s: date and time of the revision
+#: includes/class-pets-cpt.php:238
+msgid "Pet restored to revision from %s"
+msgstr "Mascota restaurada a la revisión de %s"
+
+#: includes/class-pets-cpt.php:235
+msgid "Custom field deleted."
+msgstr "Campo personalizado eliminado."
+
+#: includes/class-pets-cpt.php:234
+msgid "Custom field updated."
+msgstr "Campo personalizado actualizado."
+
+#: includes/class-pets-cpt.php:67
+msgctxt "taxonomy general name"
+msgid "Breed"
+msgstr "Raza"
+
+#: includes/class-pets-cpt.php:66 includes/class-pets-cpt.php:81
+#: includes/class-pets-pet.php:165 templates/search-form.php:54
+msgid "Breed"
+msgstr "Raza"
+
+#: includes/admin/settings/views/fields/form-sections.php:53
+#: includes/admin/settings/views/fields/form.php:72
+#: includes/admin/settings/views/fields/form.php:103
+msgid "If empty, it will be generated from the title."
+msgstr "Si se deja vacío, se generará en base al título"
+
+#: includes/admin/settings/views/fields/form-sections.php:51
+#: includes/admin/settings/views/fields/form.php:69
+msgid "Slug"
+msgstr "Slug"
+
+#: includes/admin/settings/class-settings.php:379
+msgid "After the content"
+msgstr "Después del contenido"
+
+#: includes/admin/settings/class-settings.php:111
+msgid "General"
+msgstr "General"
+
+#: includes/admin/class-pets-fields-sections-table.php:150
+#: includes/admin/class-pets-fields-table.php:187
+msgid "Delete"
+msgstr "Borrar"
+
+#: includes/admin/class-pets-fields-table.php:106
+msgid "Options:"
+msgstr "Opciones:"
+
+#: includes/admin/class-pets-fields-table.php:22
+msgid "Fileds"
+msgstr "Campos"
+
+#: includes/admin/class-pets-fields-table.php:21
+msgid "Field"
+msgstr "Campo"
+
+#: includes/admin/class-admin.php:88 includes/admin/class-admin.php:89
+#: includes/admin/settings/class-settings-fields.php:47
+msgid "Fields"
+msgstr "Campos"
+
+#. Author URI of the plugin
+msgid "https://ibenic.com"
+msgstr "https://ibenic.com"
+
+#. Author of the plugin
+msgid "ibenic"
+msgstr "ibenic"
+
+#. Description of the plugin
+msgid "Manage Pets and Animal Shelters"
+msgstr "Administrar mascotas y refugios de animales"
+
+#. Plugin URI of the plugin
+msgid "http://petswp.com"
+msgstr "http://petswp.com"
+
+#: includes/class-pets-fields.php:166
+msgid "Radio List"
+msgstr "Lista de radio"
+
+#: includes/class-pets-fields.php:162
+msgid "Checkbox"
+msgstr "Casilla de verificación"
+
+#: includes/class-pets-cpt.php:242
+msgid "Pet scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview Pet</a>"
+msgstr "Mascota programada para: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Vista previa de mascotas</a>"
+
+#: includes/class-pets-cpt.php:241
+msgid "Pet submitted. <a target=\"_blank\" href=\"%s\">Preview Pets</a>"
+msgstr "Mascota enviada. <a target=\"_blank\" href=\"%s\">Vista previa de mascotas</a>"
+
+#: includes/class-pets-cpt.php:109
+msgid "Parent Color:"
+msgstr "Color principal:"
+
+#: includes/class-pets-cpt.php:108
+msgid "Parent Color"
+msgstr "Color principal"
+
+#: includes/class-pets-cpt.php:107 templates/search-form.php:75
+msgid "All Colors"
+msgstr "Todos los colores"
+
+#: includes/class-pets-cpt.php:106
+msgid "Popular Colors"
+msgstr "Colores populares"
+
+#: includes/class-pets-cpt.php:75 includes/class-pets-cpt.php:76
+msgid "New Breed"
+msgstr "Nueva raza"
+
+#: includes/class-pets-cpt.php:74
+msgid "Update Breed"
+msgstr "Actualizar raza"
+
+#: includes/class-pets-cpt.php:73
+msgid "Edit Breed"
+msgstr "Editar raza"
+
+#: includes/class-pets-cpt.php:72
+msgid "Parent Breed:"
+msgstr "Raza principal:"
+
+#: includes/class-pets-cpt.php:71
+msgid "Parent Breed"
+msgstr "Raza principal"
+
+#: includes/class-pets-cpt.php:70
+msgid "All Breed"
+msgstr "Todas las razas"
+
+#: includes/class-pets-cpt.php:69
+msgid "Popular Breed"
+msgstr "Razas populares"
+
+#: includes/class-pets-cpt.php:68
+msgid "Search Breed"
+msgstr "Buscar razas"
+
+#: includes/class-pets-cpt.php:34
+msgid "Parent Pets"
+msgstr "Mascotas principales"
+
+#: includes/admin/settings/views/fields/form.php:15
+msgid "Add Field"
+msgstr "Añadir un campo"
+
+#: includes/admin/settings/views/fields/form-sections.php:103
+#: includes/admin/settings/views/fields/form.php:14
+#: includes/admin/settings/views/fields/form.php:127
+msgid "New Field"
+msgstr "Nuevo campo"
+
+#: includes/admin/settings/class-settings.php:380
+msgid "Before the content"
+msgstr "Antes del contenido"
+
+#: includes/admin/settings/class-settings.php:376
+msgid "Information Position"
+msgstr "Posición de la información"
+
+#: includes/admin/settings/class-settings-fields.php:187
+msgid "Field Created."
+msgstr "Campo creado."
+
+#: includes/admin/settings/class-settings-fields.php:140
+msgid "Field Title Empty."
+msgstr "Título del campo vacío."
+
+#: includes/admin/class-pets-fields-sections-table.php:187
+#: includes/admin/class-pets-fields-table.php:226
+msgid "No Fields avaliable."
+msgstr "No hay campos disponibles."
+
+#: includes/admin/class-pets-fields-table.php:38
+msgid "Meta"
+msgstr "Meta"
+
+#: includes/admin/settings/class-settings-fields.php:134
+#: includes/admin/settings/class-settings-fields.php:200
+msgid "Trying to cheat?"
+msgstr "¿Intentando de hacer trampas?"
+
+#: includes/admin/settings/class-settings-fields.php:152
+msgid "Select a Field Type."
+msgstr "Selecciona el tipo de campo."
+
+#: includes/admin/settings/class-settings-fields.php:179
+#: includes/admin/settings/class-settings-fields.php:234
+msgid "Something went wrong. We could not create the field."
+msgstr "Algo ha ido mal. No hemos podido crear el campo."
+
+#: includes/admin/settings/class-settings.php:101
+msgid "Save Settings"
+msgstr "Guardar los ajustes"
+
+#: includes/admin/settings/views/fields/form.php:34
+msgid "Edit Field"
+msgstr "Editar el campo"
+
+#: includes/admin/settings/views/fields/form-sections.php:29
+#: includes/admin/settings/views/fields/form.php:35
+msgid "Save Changes"
+msgstr "Guardar los cambios"
+
+#: includes/admin/settings/views/fields/form.php:108
+msgid "Choose a Type"
+msgstr "Elegir un tipo"
+
+#: includes/class-pets-cpt.php:114
+msgid "Separate Colors with commas"
+msgstr "Separar los colores con comas"
+
+#: includes/class-pets-cpt.php:115
+msgid "Add or remove Colors"
+msgstr "Añadir o eliminar colores"
+
+#: includes/class-pets-cpt.php:116
+msgid "Choose from the most used Colors"
+msgstr "Elegir entre los colores más usados"
+
+#: includes/class-pets-cpt.php:117
+msgid "No Colors found."
+msgstr "No se han encontrado colores."
+
+#. translators: Publish box date format, see http://php.net/date
+#: includes/class-pets-cpt.php:244
+msgid "M j, Y @ G:i"
+msgstr "j \\d\\e F \\d\\e Y @ H:i"
+
+#. translators: Publish box date format, see http://php.net/date
+#: includes/class-pets-cpt.php:245
+msgid "Pet draft updated. <a target=\"_blank\" href=\"%s\">Preview Pet</a>"
+msgstr "Borrador de mascota actualizado.<a target=\"_blank\" href=\"%s\">Vista previa de la mascota</a>"
+
+#: includes/class-pets-cpt.php:26
+msgid "New Pets"
+msgstr "Nuevas mascotas"
+
+#: includes/class-pets-cpt.php:27
+msgid "Add New"
+msgstr "Añadir nueva"
+
+#: includes/class-pets-cpt.php:28
+msgid "Add New Pets"
+msgstr "Añadir nuevas mascotas"
+
+#: includes/class-pets-cpt.php:32
+msgid "No Pets found"
+msgstr "No se han encontrado mascotas"
+
+#: includes/class-pets-cpt.php:33
+msgid "No Pets found in trash"
+msgstr "No se han encontrado mascotas en la papelera"
+
+#: includes/class-pets-cpt.php:77
+msgid "Separate Breed with commas"
+msgstr "Separar las razas con comas"
+
+#: includes/class-pets-cpt.php:78
+msgid "Add or remove Breed"
+msgstr "Añadir o eliminar razas"
+
+#: includes/class-pets-cpt.php:79
+msgid "Choose from the most used Breed"
+msgstr "Elegir entre las razas más usadas"
+
+#: includes/class-pets-cpt.php:80
+msgid "No Breed found."
+msgstr "No se han encontrado razas."
+
+#: includes/integrations/class-give.php:171
+msgid "Give"
+msgstr "Donar"
+
+#: includes/integrations/class-give.php:69
+#: includes/integrations/class-give.php:97
+msgid "Donation for Pet(s)"
+msgstr "Donación para mascota(s)"
+
+#: includes/class-pets-fields.php:158
+msgid "Dropdown"
+msgstr "Desplegable"
