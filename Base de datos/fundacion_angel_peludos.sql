@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: localhost:3307
--- Tiempo de generación: 16-03-2024 a las 16:31:33
+-- Tiempo de generación: 16-03-2024 a las 16:49:50
 -- Versión del servidor: 10.4.32-MariaDB
 -- Versión de PHP: 8.2.12
 
@@ -3159,7 +3159,7 @@ INSERT INTO `wp_postmeta` (`meta_id`, `post_id`, `meta_key`, `meta_value`) VALUE
 (3381, 611, '_wp_trash_meta_time', '1710600542'),
 (3382, 612, '_wp_trash_meta_status', 'publish'),
 (3383, 612, '_wp_trash_meta_time', '1710600559'),
-(3384, 613, '_edit_lock', '1710603034:1');
+(3384, 613, '_edit_lock', '1710603155:1');
 
 -- --------------------------------------------------------
 
