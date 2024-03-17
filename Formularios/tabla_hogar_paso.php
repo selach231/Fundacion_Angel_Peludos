@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tabla de Hogar de Paso</title>
-    <link rel="stylesheet" href="estilos.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
@@ -42,6 +42,9 @@ if ($resultado->num_rows > 0) {
         echo '<td>' . htmlspecialchars($fila['direccion']) . '</td>';
         echo '<td>' . htmlspecialchars($fila['barrio']) . '</td>';
         echo '<td>' . htmlspecialchars($fila['ciudad']) . '</td>';
+        echo '<td>';
+        echo '<a href="eliminar_hogar.php?id=' . $fila['id'] . '" class="btn" onclick="return confirm(\'¿Estás seguro de que quieres eliminar este registro?\')">Eliminar </a>';
+        echo '</td>';
         echo '</tr>';
     }
     echo '</table>';
@@ -52,7 +55,7 @@ if ($resultado->num_rows > 0) {
 // Cerrar la conexión
 $conexion->close();
 ?>
-
+<a href="http://localhost/fundacion_angel_peludos/" class="btn">Regresar al Inicio</a>
 </body>
 </html>
 
