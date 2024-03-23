@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tabla de Adopciones</title>
-    <link rel="stylesheet" href="estilos.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
@@ -40,18 +40,21 @@ if ($resultados->num_rows > 0) {
         echo '<td>' . htmlspecialchars($fila['como_se_entero']) . '</td>';
         echo '<td>' . htmlspecialchars($fila['cumple_requisitos']) . '</td>';
         echo '<td>' . htmlspecialchars($fila['autorizacion_tratamiento_datos']) . '</td>';
+        echo '<td>';
+        echo '<a href="eliminar_adop.php?id=' . $fila['id'] . '" class="btn" onclick="return confirm(\'¿Estás seguro de que quieres eliminar este registro?\')">Eliminar </a>';
+        echo '</td>';
         echo '</tr>';
     }
     echo '</table>';
     echo '</div>';
-} else {
-    echo 'No se encontraron resultados en adopciones.';
-}
+    } else {
+        echo 'No se encontraron resultados en adopciones.';
+    }
 
 // Cerrar la conexión
 $conexion->close();
 ?>
-
+<a href="http://localhost/fundacion_angel_peludos/" class="btn">Regresar al Inicio</a>
 </body>
 </html>
 

@@ -36,6 +36,12 @@
         <label for="comentarios">Comentarios:</label><br>
         <textarea name="comentarios" rows="4" cols="50"></textarea><br>
 
+        <label for="autorizacion_tratamiento_datos">Autorizo el tratamiento de datos personales según la Ley de Habeas Data- Ley 1581 de 2012 y autorizo ser contactado a los medios de comunicación suministrados en este formulario.</label><br>
+        <select id="autorizacion_tratamiento_datos" name="autorizacion_tratamiento_datos" required>
+            <option value="si">Sí</option>
+            <option value="no">No</option>
+        </select><br>
+
         <input type="submit" value="Enviar">
     </form>
 </body>
