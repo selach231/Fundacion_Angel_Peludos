@@ -20,7 +20,7 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'fundacion_angel_peludos' );
+define( 'DB_NAME', 'hogar_cai_dorada' );
 
 /** Database username */
 define( 'DB_USER', 'root' );

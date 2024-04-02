@@ -6,11 +6,11 @@
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
-RewriteBase /fundacion_angel_peludos/
+RewriteBase /hogar_cai_dorada/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /fundacion_angel_peludos/index.php [L]
+RewriteRule . /hogar_cai_dorada/index.php [L]
 </IfModule>
 
 # END WordPress
