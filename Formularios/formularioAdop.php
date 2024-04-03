@@ -58,6 +58,7 @@
 
         <input type="submit" value="Enviar">
     </form>
+    <a href="http://localhost/hogar_cai_dorada/" class="btn">Regresar al Inicio</a>
 </body>
 </html>
 

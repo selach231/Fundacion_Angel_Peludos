@@ -1,6 +1,6 @@
 <?php
 // Conectar a la base de datos
-$conexion = new mysqli('localhost', 'root', '', 'fundacion_angel_peludos');
+$conexion = new mysqli('localhost', 'root', '', 'hogar_cai_dorada');
 
 // Verificar la conexión
 if ($conexion->connect_error) {

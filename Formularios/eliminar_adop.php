@@ -4,7 +4,7 @@ if(isset($_GET['id'])) {
     $id = $_GET['id'];
 
     // Conectar a la base de datos
-    $conexion = new mysqli('localhost', 'root', '', 'fundacion_angel_peludos');
+    $conexion = new mysqli('localhost', 'root', '', 'hogar_cai_dorada');
     if ($conexion->connect_error) {
         die("Conexión fallida: " . $conexion->connect_error);
     }
@@ -22,7 +22,7 @@ if(isset($_GET['id'])) {
     $stmt->close();
     $conexion->close();
     
-    header("Location: http://localhost/fundacion_angel_peludos/formularios/tabla_adopcion.php");
+    header("Location: http://localhost/fhogar_cai_dorada/formularios/tabla_adopcion.php");
     exit();
 } else {
     echo "No se proporcionó ID para eliminar.";

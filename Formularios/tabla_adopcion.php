@@ -10,7 +10,7 @@
 
 <?php
 // Conectar a la base de datos
-$conexion = new mysqli('localhost', 'root', '', 'fundacion_angel_peludos');
+$conexion = new mysqli('localhost', 'root', '', 'hogar_cai_dorada');
 
 // Verificar la conexión
 if ($conexion->connect_error) {
@@ -54,7 +54,7 @@ if ($resultados->num_rows > 0) {
 // Cerrar la conexión
 $conexion->close();
 ?>
-<a href="http://localhost/fundacion_angel_peludos/" class="btn">Regresar al Inicio</a>
+<a href="http://localhost/hogar_cai_dorada/" class="btn">Regresar al Inicio</a>
 </body>
 </html>
 
