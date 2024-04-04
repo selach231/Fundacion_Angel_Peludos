@@ -2832,15 +2832,15 @@ SITE BANNER
 =========================*/
 
 .site-banner {
-    position: relative;
+    position: sticky;
 }
 
 .site-banner .wp-custom-header {
-    position: relative;
+    position: sticky;
 }
 
 .site-banner .item .banner-text {
-    position: absolute;
+    position: sticky;
     top: 0;
     left: 0;
     width: 100%;
@@ -2873,7 +2873,7 @@ SITE BANNER
 }
 
 .video-banner #wp-custom-header-video {
-    position: absolute;
+    position: sticky;
     top: 0;
     left: 0;
     width: 100%;
@@ -2917,7 +2917,7 @@ SITE BANNER
 }
 
 .site-banner .banner-text .container {
-    max-width: 800px;
+    max-width: 600px;
     margin-left: auto;
     margin-right: auto;
     position: absolute;
