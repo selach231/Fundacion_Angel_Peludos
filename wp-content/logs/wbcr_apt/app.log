@@ -50,3 +50,665 @@
   'date_end' => 0,
 )
 -------------------------------
+05-04-2024 18:33:25 [localhost][info] Posts query: array (
+  'has_thumb' => false,
+  'type' => true,
+  'status' => 'post',
+  'category' => 0,
+  'date_start' => 0,
+  'date_end' => 0,
+)
+05-04-2024 18:33:25 [localhost][info] Posts query: array (
+  'has_thumb' => true,
+  'type' => true,
+  'status' => 'post',
+  'category' => 0,
+  'date_start' => 0,
+  'date_end' => 0,
+)
+-------------------------------
+05-04-2024 18:34:41 [localhost][info] Posts query: array (
+  'has_thumb' => false,
+  'type' => true,
+  'status' => 'post',
+  'category' => 0,
+  'date_start' => 0,
+  'date_end' => 0,
+)
+05-04-2024 18:34:41 [localhost][info] Posts query: array (
+  'has_thumb' => true,
+  'type' => true,
+  'status' => 'post',
+  'category' => 0,
+  'date_start' => 0,
+  'date_end' => 0,
+)
+-------------------------------
+05-04-2024 18:34:47 [localhost][info] START generate in mode:  find
+05-04-2024 18:34:47 [localhost][info] Posts query: array (
+  'has_thumb' => '0',
+  'type' => true,
+  'status' => '',
+  'category' => 0,
+  'date_start' => 0,
+  'date_end' => 0,
+)
+05-04-2024 18:34:47 [localhost][info] Queried posts IDs:  558,508,502,496,491,436,432,426,405,387,190,166,71,19,18
+-------------------------------
+05-04-2024 18:34:48 [localhost][info] --Start processing post ID = 558
+05-04-2024 18:34:48 [localhost][debug] Found images: array (
+)
+05-04-2024 18:34:48 [localhost][info] --End processing post ID = 558
+-------------------------------
+05-04-2024 18:34:48 [localhost][info] --Start processing post ID = 508
+05-04-2024 18:34:48 [localhost][debug] Found images: array (
+)
+05-04-2024 18:34:48 [localhost][info] --End processing post ID = 508
+-------------------------------
+05-04-2024 18:34:49 [localhost][info] --Start processing post ID = 502
+05-04-2024 18:34:49 [localhost][debug] Found images: array (
+)
+05-04-2024 18:34:49 [localhost][info] --End processing post ID = 502
+-------------------------------
+05-04-2024 18:34:50 [localhost][info] --Start processing post ID = 496
+05-04-2024 18:34:50 [localhost][debug] Found images: array (
+)
+05-04-2024 18:34:50 [localhost][info] --End processing post ID = 496
+-------------------------------
+05-04-2024 18:34:50 [localhost][info] --Start processing post ID = 491
+05-04-2024 18:34:50 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img class="fusion-lazyload-ignore" src="" alt="" />',
+    'url' => '',
+    'title' => '',
+  ),
+  1 => 
+  array (
+    'tag' => '<img class="fusion-lazyload-ignore" src="" alt="" />',
+    'url' => '',
+    'title' => '',
+  ),
+  2 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg" class="gravatar avatar avatar-190 um-avatar um-avatar-default" width="190" height="190" alt="Alexandra Barrera" data-default="http://localhost/hogar_cai_dorada/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg" onerror="if ( ! this.getAttribute(\'data-load-error\') ){ this.setAttribute(\'data-load-error\', \'1\');this.setAttribute(\'src\', this.getAttribute(\'data-default\'));}" loading="lazy" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg',
+    'title' => '',
+  ),
+  3 => 
+  array (
+    'tag' => '<img class="fusion-lazyload-ignore" src="" alt="" />',
+    'url' => '',
+    'title' => '',
+  ),
+  4 => 
+  array (
+    'tag' => '<img class="fusion-lazyload-ignore" src="" alt="" />',
+    'url' => '',
+    'title' => '',
+  ),
+)
+05-04-2024 18:34:50 [localhost][info] --End processing post ID = 491
+-------------------------------
+05-04-2024 18:34:51 [localhost][info] --Start processing post ID = 436
+05-04-2024 18:34:51 [localhost][debug] Found images: array (
+)
+05-04-2024 18:34:51 [localhost][info] --End processing post ID = 436
+-------------------------------
+05-04-2024 18:34:52 [localhost][info] --Start processing post ID = 432
+05-04-2024 18:34:52 [localhost][debug] Found images: array (
+)
+05-04-2024 18:34:52 [localhost][info] --End processing post ID = 432
+-------------------------------
+05-04-2024 18:34:52 [localhost][info] --Start processing post ID = 426
+05-04-2024 18:34:52 [localhost][debug] Found images: array (
+)
+05-04-2024 18:34:52 [localhost][info] --End processing post ID = 426
+-------------------------------
+05-04-2024 18:34:53 [localhost][info] --Start processing post ID = 405
+05-04-2024 18:34:53 [localhost][debug] Found images: array (
+)
+05-04-2024 18:34:53 [localhost][info] --End processing post ID = 405
+-------------------------------
+05-04-2024 18:34:53 [localhost][info] --Start processing post ID = 387
+05-04-2024 18:34:53 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img width="810" height="927" src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/pexels-gilberto-reyes-825947.jpg" alt="" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/pexels-gilberto-reyes-825947.jpg',
+    'title' => '',
+  ),
+  1 => 
+  array (
+    'tag' => '<img width="810" height="518" src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/pexels-james-goddard-13803300-1.jpg" alt="" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/pexels-james-goddard-13803300-1.jpg',
+    'title' => '',
+  ),
+  2 => 
+  array (
+    'tag' => '<img width="360" height="540" src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/pexels-polina-tankilevitch-5540154.jpg" alt="" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/pexels-polina-tankilevitch-5540154.jpg',
+    'title' => '',
+  ),
+)
+05-04-2024 18:34:53 [localhost][info] --End processing post ID = 387
+-------------------------------
+05-04-2024 18:34:54 [localhost][info] --Start processing post ID = 190
+05-04-2024 18:34:54 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img width="540" height="359" src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/pexels-photo-3628100-1.jpeg" alt="" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/pexels-photo-3628100-1.jpeg',
+    'title' => '',
+  ),
+  1 => 
+  array (
+    'tag' => '<img width="127" height="190" src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/pexels-noel-blck-11605151.jpg" alt="" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/pexels-noel-blck-11605151.jpg',
+    'title' => '',
+  ),
+)
+05-04-2024 18:34:54 [localhost][info] --End processing post ID = 190
+-------------------------------
+05-04-2024 18:34:55 [localhost][info] --Start processing post ID = 166
+05-04-2024 18:34:55 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img style="width: 487px;" src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/02/239095767_1199363477141256_8832935462201294200_n.jpg" alt="" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/02/239095767_1199363477141256_8832935462201294200_n.jpg',
+    'title' => '',
+  ),
+  1 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/307332594_451130883716769_8495752080962651934_n.jpg" alt="307332594_451130883716769_8495752080962651934_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/307332594_451130883716769_8495752080962651934_n.jpg',
+    'title' => '',
+  ),
+  2 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/307464242_451130903716767_7869065990357280858_n.jpg" alt="307464242_451130903716767_7869065990357280858_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/307464242_451130903716767_7869065990357280858_n.jpg',
+    'title' => '',
+  ),
+  3 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/307491229_451130817050109_6059738280706164232_n.jpg" alt="307491229_451130817050109_6059738280706164232_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/307491229_451130817050109_6059738280706164232_n.jpg',
+    'title' => '',
+  ),
+  4 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/318158444_509745707855286_5666754274874130555_n.jpg" alt="318158444_509745707855286_5666754274874130555_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/318158444_509745707855286_5666754274874130555_n.jpg',
+    'title' => '',
+  ),
+  5 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/319058338_509738387856018_2963602181086189842_n.jpg" alt="319058338_509738387856018_2963602181086189842_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/319058338_509738387856018_2963602181086189842_n.jpg',
+    'title' => '',
+  ),
+  6 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/302692084_1455956318148636_7765473404475440617_n.jpg" alt="302692084_1455956318148636_7765473404475440617_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/302692084_1455956318148636_7765473404475440617_n.jpg',
+    'title' => '',
+  ),
+  7 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/303289102_1455956011482000_3143423319545176658_n.jpg" alt="303289102_1455956011482000_3143423319545176658_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/303289102_1455956011482000_3143423319545176658_n.jpg',
+    'title' => '',
+  ),
+  8 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/305568258_1455956971481904_1618113130838544014_n.jpg" alt="305568258_1455956971481904_1618113130838544014_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/305568258_1455956971481904_1618113130838544014_n.jpg',
+    'title' => '',
+  ),
+  9 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/307434948_451130770383447_8654631066827661113_n.jpg" alt="307434948_451130770383447_8654631066827661113_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/307434948_451130770383447_8654631066827661113_n.jpg',
+    'title' => '',
+  ),
+  10 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/307580405_451130753716782_4308290248582889282_n.jpg" alt="307580405_451130753716782_4308290248582889282_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/307580405_451130753716782_4308290248582889282_n.jpg',
+    'title' => '',
+  ),
+  11 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/410047626_740060788157109_2343017655197585658_n.jpg" alt="410047626_740060788157109_2343017655197585658_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/410047626_740060788157109_2343017655197585658_n.jpg',
+    'title' => '',
+  ),
+  12 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/315985186_498084565688067_6347918009636090221_n.jpg" alt="315985186_498084565688067_6347918009636090221_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/315985186_498084565688067_6347918009636090221_n.jpg',
+    'title' => '',
+  ),
+  13 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/316066492_498084512354739_4291103950891987450_n.jpg" alt="316066492_498084512354739_4291103950891987450_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/316066492_498084512354739_4291103950891987450_n.jpg',
+    'title' => '',
+  ),
+  14 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/316412164_498084129021444_110710638178214131_n.jpg" alt="316412164_498084129021444_110710638178214131_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/316412164_498084129021444_110710638178214131_n.jpg',
+    'title' => '',
+  ),
+  15 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/316670387_507563238073533_3834554509049075935_n.jpg" alt="316670387_507563238073533_3834554509049075935_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/316670387_507563238073533_3834554509049075935_n.jpg',
+    'title' => '',
+  ),
+  16 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/317724438_509745651188625_790788679746480726_n.jpg" alt="317724438_509745651188625_790788679746480726_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/317724438_509745651188625_790788679746480726_n.jpg',
+    'title' => '',
+  ),
+  17 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/318103799_509745764521947_5651544549196657239_n.jpg" alt="318103799_509745764521947_5651544549196657239_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/318103799_509745764521947_5651544549196657239_n.jpg',
+    'title' => '',
+  ),
+  18 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/319216077_509738417856015_3742883670580259085_n.jpg" alt="319216077_509738417856015_3742883670580259085_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/319216077_509738417856015_3742883670580259085_n.jpg',
+    'title' => '',
+  ),
+  19 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/383774819_18313056718107225_5328970638676050614_n.jpg" alt="383774819_18313056718107225_5328970638676050614_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/383774819_18313056718107225_5328970638676050614_n.jpg',
+    'title' => '',
+  ),
+  20 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/412934662_740060838157104_564112077036603919_n.jpg" alt="412934662_740060838157104_564112077036603919_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/412934662_740060838157104_564112077036603919_n.jpg',
+    'title' => '',
+  ),
+  21 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/413017859_740060811490440_7825422827940393126_n.jpg" alt="413017859_740060811490440_7825422827940393126_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/413017859_740060811490440_7825422827940393126_n.jpg',
+    'title' => '',
+  ),
+  22 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/425353752_18331951942107225_429954505369292267_n.jpg" alt="425353752_18331951942107225_429954505369292267_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/425353752_18331951942107225_429954505369292267_n.jpg',
+    'title' => '',
+  ),
+  23 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/425350244_18331953034107225_3002748354737451563_n.jpg" alt="425350244_18331953034107225_3002748354737451563_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/425350244_18331953034107225_3002748354737451563_n.jpg',
+    'title' => '',
+  ),
+  24 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/425414361_18331952977107225_8847611709749697059_n.jpg" alt="425414361_18331952977107225_8847611709749697059_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/425414361_18331952977107225_8847611709749697059_n.jpg',
+    'title' => '',
+  ),
+)
+05-04-2024 18:34:55 [localhost][info] --End processing post ID = 166
+-------------------------------
+05-04-2024 18:34:55 [localhost][info] --Start processing post ID = 71
+05-04-2024 18:34:55 [localhost][debug] Found images: array (
+)
+05-04-2024 18:34:55 [localhost][info] --End processing post ID = 71
+-------------------------------
+05-04-2024 18:34:56 [localhost][info] --Start processing post ID = 19
+05-04-2024 18:34:56 [localhost][debug] Found images: array (
+)
+05-04-2024 18:34:56 [localhost][info] --End processing post ID = 19
+-------------------------------
+05-04-2024 18:34:57 [localhost][info] --Start processing post ID = 18
+05-04-2024 18:34:57 [localhost][debug] Found images: array (
+)
+05-04-2024 18:34:57 [localhost][info] --End processing post ID = 18
+-------------------------------
+05-04-2024 18:36:35 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/311001619_464238595739331_8799430598972235886_n-1.jpg" alt="" class="wp-image-1551" style="width:518px;height:auto"/>',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/311001619_464238595739331_8799430598972235886_n-1.jpg',
+    'title' => '',
+  ),
+)
+05-04-2024 18:36:35 [localhost][info] An attachment (1551) was found in the text of the post.
+05-04-2024 18:36:35 [localhost][info] Featured image (1551) is set for post (1563)
+-------------------------------
+05-04-2024 18:36:43 [localhost][warning] The post (1563) has already been assigned a featured image
+05-04-2024 18:36:43 [localhost][warning] The post (1563) has already been assigned a featured image
+05-04-2024 18:36:43 [localhost][warning] The post (1563) has already been assigned a featured image
+-------------------------------
+05-04-2024 18:36:45 [localhost][warning] The post (1563) has already been assigned a featured image
+05-04-2024 18:36:45 [localhost][warning] The post (1563) has already been assigned a featured image
+-------------------------------
+05-04-2024 18:38:31 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/pexels-chikinbun-10867806.jpg" alt="" class="wp-image-1555" style="width:397px;height:auto"/>',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/pexels-chikinbun-10867806.jpg',
+    'title' => '',
+  ),
+)
+05-04-2024 18:38:31 [localhost][info] An attachment (1555) was found in the text of the post.
+05-04-2024 18:38:31 [localhost][info] Featured image (1555) is set for post (1565)
+-------------------------------
+05-04-2024 18:39:14 [localhost][warning] The post (1565) has already been assigned a featured image
+05-04-2024 18:39:14 [localhost][warning] The post (1565) has already been assigned a featured image
+05-04-2024 18:39:14 [localhost][warning] The post (1565) has already been assigned a featured image
+-------------------------------
+05-04-2024 18:39:15 [localhost][warning] The post (1565) has already been assigned a featured image
+05-04-2024 18:39:15 [localhost][warning] The post (1565) has already been assigned a featured image
+-------------------------------
+05-04-2024 18:40:33 [localhost][info] START generate in mode:  find
+05-04-2024 18:40:33 [localhost][info] Posts query: array (
+  'has_thumb' => '0',
+  'type' => true,
+  'status' => '',
+  'category' => 0,
+  'date_start' => 0,
+  'date_end' => 0,
+)
+05-04-2024 18:40:33 [localhost][info] Queried posts IDs:  558,508,502,496,491,436,432,426,405,387,190,166,71,19,18
+-------------------------------
+05-04-2024 18:40:33 [localhost][info] --Start processing post ID = 558
+05-04-2024 18:40:33 [localhost][debug] Found images: array (
+)
+05-04-2024 18:40:33 [localhost][info] --End processing post ID = 558
+-------------------------------
+05-04-2024 18:40:34 [localhost][info] --Start processing post ID = 508
+05-04-2024 18:40:34 [localhost][debug] Found images: array (
+)
+05-04-2024 18:40:34 [localhost][info] --End processing post ID = 508
+-------------------------------
+05-04-2024 18:40:35 [localhost][info] --Start processing post ID = 502
+05-04-2024 18:40:35 [localhost][debug] Found images: array (
+)
+05-04-2024 18:40:35 [localhost][info] --End processing post ID = 502
+-------------------------------
+05-04-2024 18:40:35 [localhost][info] --Start processing post ID = 496
+05-04-2024 18:40:35 [localhost][debug] Found images: array (
+)
+05-04-2024 18:40:35 [localhost][info] --End processing post ID = 496
+-------------------------------
+05-04-2024 18:40:36 [localhost][info] --Start processing post ID = 491
+05-04-2024 18:40:36 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img class="fusion-lazyload-ignore" src="" alt="" />',
+    'url' => '',
+    'title' => '',
+  ),
+  1 => 
+  array (
+    'tag' => '<img class="fusion-lazyload-ignore" src="" alt="" />',
+    'url' => '',
+    'title' => '',
+  ),
+  2 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg" class="gravatar avatar avatar-190 um-avatar um-avatar-default" width="190" height="190" alt="Alexandra Barrera" data-default="http://localhost/hogar_cai_dorada/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg" onerror="if ( ! this.getAttribute(\'data-load-error\') ){ this.setAttribute(\'data-load-error\', \'1\');this.setAttribute(\'src\', this.getAttribute(\'data-default\'));}" loading="lazy" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg',
+    'title' => '',
+  ),
+  3 => 
+  array (
+    'tag' => '<img class="fusion-lazyload-ignore" src="" alt="" />',
+    'url' => '',
+    'title' => '',
+  ),
+  4 => 
+  array (
+    'tag' => '<img class="fusion-lazyload-ignore" src="" alt="" />',
+    'url' => '',
+    'title' => '',
+  ),
+)
+05-04-2024 18:40:36 [localhost][info] --End processing post ID = 491
+-------------------------------
+05-04-2024 18:40:36 [localhost][info] --Start processing post ID = 436
+05-04-2024 18:40:36 [localhost][debug] Found images: array (
+)
+05-04-2024 18:40:36 [localhost][info] --End processing post ID = 436
+-------------------------------
+05-04-2024 18:40:37 [localhost][info] --Start processing post ID = 432
+05-04-2024 18:40:37 [localhost][debug] Found images: array (
+)
+05-04-2024 18:40:37 [localhost][info] --End processing post ID = 432
+-------------------------------
+05-04-2024 18:40:38 [localhost][info] --Start processing post ID = 426
+05-04-2024 18:40:38 [localhost][debug] Found images: array (
+)
+05-04-2024 18:40:38 [localhost][info] --End processing post ID = 426
+-------------------------------
+05-04-2024 18:40:38 [localhost][info] --Start processing post ID = 405
+05-04-2024 18:40:38 [localhost][debug] Found images: array (
+)
+05-04-2024 18:40:38 [localhost][info] --End processing post ID = 405
+-------------------------------
+05-04-2024 18:40:39 [localhost][info] --Start processing post ID = 387
+05-04-2024 18:40:39 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img width="810" height="927" src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/pexels-gilberto-reyes-825947.jpg" alt="" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/pexels-gilberto-reyes-825947.jpg',
+    'title' => '',
+  ),
+  1 => 
+  array (
+    'tag' => '<img width="810" height="518" src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/pexels-james-goddard-13803300-1.jpg" alt="" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/pexels-james-goddard-13803300-1.jpg',
+    'title' => '',
+  ),
+  2 => 
+  array (
+    'tag' => '<img width="360" height="540" src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/pexels-polina-tankilevitch-5540154.jpg" alt="" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/pexels-polina-tankilevitch-5540154.jpg',
+    'title' => '',
+  ),
+)
+05-04-2024 18:40:39 [localhost][info] --End processing post ID = 387
+-------------------------------
+05-04-2024 18:40:39 [localhost][info] --Start processing post ID = 190
+05-04-2024 18:40:39 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img width="540" height="359" src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/pexels-photo-3628100-1.jpeg" alt="" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/pexels-photo-3628100-1.jpeg',
+    'title' => '',
+  ),
+  1 => 
+  array (
+    'tag' => '<img width="127" height="190" src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/pexels-noel-blck-11605151.jpg" alt="" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/pexels-noel-blck-11605151.jpg',
+    'title' => '',
+  ),
+)
+05-04-2024 18:40:39 [localhost][info] --End processing post ID = 190
+-------------------------------
+05-04-2024 18:40:40 [localhost][info] --Start processing post ID = 166
+05-04-2024 18:40:40 [localhost][debug] Found images: array (
+  0 => 
+  array (
+    'tag' => '<img style="width: 487px;" src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/02/239095767_1199363477141256_8832935462201294200_n.jpg" alt="" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/02/239095767_1199363477141256_8832935462201294200_n.jpg',
+    'title' => '',
+  ),
+  1 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/307332594_451130883716769_8495752080962651934_n.jpg" alt="307332594_451130883716769_8495752080962651934_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/307332594_451130883716769_8495752080962651934_n.jpg',
+    'title' => '',
+  ),
+  2 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/307464242_451130903716767_7869065990357280858_n.jpg" alt="307464242_451130903716767_7869065990357280858_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/307464242_451130903716767_7869065990357280858_n.jpg',
+    'title' => '',
+  ),
+  3 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/307491229_451130817050109_6059738280706164232_n.jpg" alt="307491229_451130817050109_6059738280706164232_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/307491229_451130817050109_6059738280706164232_n.jpg',
+    'title' => '',
+  ),
+  4 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/318158444_509745707855286_5666754274874130555_n.jpg" alt="318158444_509745707855286_5666754274874130555_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/318158444_509745707855286_5666754274874130555_n.jpg',
+    'title' => '',
+  ),
+  5 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/319058338_509738387856018_2963602181086189842_n.jpg" alt="319058338_509738387856018_2963602181086189842_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/319058338_509738387856018_2963602181086189842_n.jpg',
+    'title' => '',
+  ),
+  6 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/302692084_1455956318148636_7765473404475440617_n.jpg" alt="302692084_1455956318148636_7765473404475440617_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/302692084_1455956318148636_7765473404475440617_n.jpg',
+    'title' => '',
+  ),
+  7 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/303289102_1455956011482000_3143423319545176658_n.jpg" alt="303289102_1455956011482000_3143423319545176658_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/303289102_1455956011482000_3143423319545176658_n.jpg',
+    'title' => '',
+  ),
+  8 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/305568258_1455956971481904_1618113130838544014_n.jpg" alt="305568258_1455956971481904_1618113130838544014_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/305568258_1455956971481904_1618113130838544014_n.jpg',
+    'title' => '',
+  ),
+  9 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/307434948_451130770383447_8654631066827661113_n.jpg" alt="307434948_451130770383447_8654631066827661113_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/307434948_451130770383447_8654631066827661113_n.jpg',
+    'title' => '',
+  ),
+  10 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/307580405_451130753716782_4308290248582889282_n.jpg" alt="307580405_451130753716782_4308290248582889282_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/307580405_451130753716782_4308290248582889282_n.jpg',
+    'title' => '',
+  ),
+  11 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/410047626_740060788157109_2343017655197585658_n.jpg" alt="410047626_740060788157109_2343017655197585658_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/410047626_740060788157109_2343017655197585658_n.jpg',
+    'title' => '',
+  ),
+  12 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/315985186_498084565688067_6347918009636090221_n.jpg" alt="315985186_498084565688067_6347918009636090221_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/315985186_498084565688067_6347918009636090221_n.jpg',
+    'title' => '',
+  ),
+  13 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/316066492_498084512354739_4291103950891987450_n.jpg" alt="316066492_498084512354739_4291103950891987450_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/316066492_498084512354739_4291103950891987450_n.jpg',
+    'title' => '',
+  ),
+  14 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/316412164_498084129021444_110710638178214131_n.jpg" alt="316412164_498084129021444_110710638178214131_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/316412164_498084129021444_110710638178214131_n.jpg',
+    'title' => '',
+  ),
+  15 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/316670387_507563238073533_3834554509049075935_n.jpg" alt="316670387_507563238073533_3834554509049075935_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/316670387_507563238073533_3834554509049075935_n.jpg',
+    'title' => '',
+  ),
+  16 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/317724438_509745651188625_790788679746480726_n.jpg" alt="317724438_509745651188625_790788679746480726_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/317724438_509745651188625_790788679746480726_n.jpg',
+    'title' => '',
+  ),
+  17 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/318103799_509745764521947_5651544549196657239_n.jpg" alt="318103799_509745764521947_5651544549196657239_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/318103799_509745764521947_5651544549196657239_n.jpg',
+    'title' => '',
+  ),
+  18 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/319216077_509738417856015_3742883670580259085_n.jpg" alt="319216077_509738417856015_3742883670580259085_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/319216077_509738417856015_3742883670580259085_n.jpg',
+    'title' => '',
+  ),
+  19 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/383774819_18313056718107225_5328970638676050614_n.jpg" alt="383774819_18313056718107225_5328970638676050614_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/383774819_18313056718107225_5328970638676050614_n.jpg',
+    'title' => '',
+  ),
+  20 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/412934662_740060838157104_564112077036603919_n.jpg" alt="412934662_740060838157104_564112077036603919_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/412934662_740060838157104_564112077036603919_n.jpg',
+    'title' => '',
+  ),
+  21 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/413017859_740060811490440_7825422827940393126_n.jpg" alt="413017859_740060811490440_7825422827940393126_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/413017859_740060811490440_7825422827940393126_n.jpg',
+    'title' => '',
+  ),
+  22 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/425353752_18331951942107225_429954505369292267_n.jpg" alt="425353752_18331951942107225_429954505369292267_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/425353752_18331951942107225_429954505369292267_n.jpg',
+    'title' => '',
+  ),
+  23 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/425350244_18331953034107225_3002748354737451563_n.jpg" alt="425350244_18331953034107225_3002748354737451563_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/425350244_18331953034107225_3002748354737451563_n.jpg',
+    'title' => '',
+  ),
+  24 => 
+  array (
+    'tag' => '<img src="http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/425414361_18331952977107225_8847611709749697059_n.jpg" alt="425414361_18331952977107225_8847611709749697059_n" />',
+    'url' => 'http://localhost/hogar_cai_dorada/wp-content/uploads/2024/04/425414361_18331952977107225_8847611709749697059_n.jpg',
+    'title' => '',
+  ),
+)
+05-04-2024 18:40:40 [localhost][info] --End processing post ID = 166
+-------------------------------
+05-04-2024 18:40:41 [localhost][info] --Start processing post ID = 71
+05-04-2024 18:40:41 [localhost][debug] Found images: array (
+)
+05-04-2024 18:40:41 [localhost][info] --End processing post ID = 71
+-------------------------------
+05-04-2024 18:40:41 [localhost][info] --Start processing post ID = 19
+05-04-2024 18:40:41 [localhost][debug] Found images: array (
+)
+05-04-2024 18:40:41 [localhost][info] --End processing post ID = 19
+-------------------------------
+05-04-2024 18:40:42 [localhost][info] --Start processing post ID = 18
+05-04-2024 18:40:42 [localhost][debug] Found images: array (
+)
+05-04-2024 18:40:42 [localhost][info] --End processing post ID = 18
+-------------------------------

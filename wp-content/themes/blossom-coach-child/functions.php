@@ -15,7 +15,7 @@ function child_theme_assets() {
 }
 add_action( 'wp_enqueue_scripts', 'child_theme_assets' );
 
-    if ( !function_exists('AddThumbColumn') && function_exists('add_theme_support') ) {
+if ( !function_exists('AddThumbColumn') && function_exists('add_theme_support') ) {
         add_theme_support('post-thumbnails', array( 'post', 'page' ) );
         function AddThumbColumn($cols) {
         $cols['thumbnail'] = __('Thumbnail');
