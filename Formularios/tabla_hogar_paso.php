@@ -55,7 +55,7 @@ if ($resultado->num_rows > 0) {
 // Cerrar la conexión
 $conexion->close();
 ?>
-<a href="http://localhost/hogar_cai_dorada/" class="btn">Regresar al Inicio</a>
+<a href="http://localhost/hogar_cai_dorada/tablas" class="btn">Regresar</a>
 </body>
 </html>
 
