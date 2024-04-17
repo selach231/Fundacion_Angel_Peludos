@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="estilos.css">
+    <link rel="stylesheet" href="https://hogarcai.netlify.app/formularios/estilos.css">
     <title>Formulario Contactanos</title>
 </head>
 <body>
-    <body class="fondo"></body>
+    
     <h2>Formulario de Contacto</h2>
     <form method="post" action="guardar_respuestas.php">
         <label for="nombre_apellido">Nombre y Apellido:</label>
@@ -44,6 +44,6 @@
 
         <input type="submit" value="Enviar">
     </form>
-    <a href="http://localhost/hogar_cai_dorada/" class="btn">Regresar al Inicio</a>
+    <a href="https://hogarcai.netlify.app/" class="btn">Regresar al Inicio</a>
 </body>
 </html>

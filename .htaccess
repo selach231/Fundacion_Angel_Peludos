@@ -20,3 +20,12 @@ RewriteRule . /hogar_cai_dorada/index.php [L]
 # Cualquier cambio en las directivas que hay entre esos marcadores serán sobrescritas.
 
 # END ShortPixelWebp
+# BEGIN Simply Static
+# Las directivas (líneas) entre «BEGIN Simply Static» y «END Simply Static» son
+# generadas dinámicamente y solo deberían ser modificadas mediante filtros de WordPress.
+# Cualquier cambio en las directivas que hay entre esos marcadores serán sobrescritas.
+<Files "C:\xampp\htdocs\hogar_cai_dorada/wp-content/uploads\simply-static\d16b21588c4cbb0f8d330d632b7f6adb-debug.txt">
+require all denied
+require host localhost
+</Files>
+# END Simply Static

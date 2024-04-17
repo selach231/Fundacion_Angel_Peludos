@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Actividades &#8211; Hogar de Paso Transitorio y de Adopción &quot;CAI DE LA DORADA&quot;</title>
+	<atom:link href="https://hogarcai.netlify.app/category/actividades/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hogarcai.netlify.app</link>
+	<description>Esperanza Canina y Felina</description>
+	<lastBuildDate>Fri, 05 Apr 2024 17:19:14 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://hogarcai.netlify.app/wp-content/uploads/2024/03/logoactualblancoynegropequeno-1.jpg</url>
+	<title>Actividades &#8211; Hogar de Paso Transitorio y de Adopción &quot;CAI DE LA DORADA&quot;</title>
+	<link>https://hogarcai.netlify.app</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>JORNADA DE VACUNACIÓN</title>
+		<link>https://hogarcai.netlify.app/2024/04/05/jornada-de-vacunacion/</link>
+					<comments>https://hogarcai.netlify.app/2024/04/05/jornada-de-vacunacion/#respond</comments>
+		
+		<dc:creator><![CDATA[Alexandra]]></dc:creator>
+		<pubDate>Fri, 05 Apr 2024 17:16:14 +0000</pubDate>
+				<category><![CDATA[Actividades]]></category>
+		<guid isPermaLink="false">https://hogarcai.netlify.app/?p=1582</guid>
+
+					<description><![CDATA[Empezamos campaña de vacunación antirrábica, esperamos la asistencia de tus peluditos este 11 de mayo en el Hogar de paso de 1:00 pm a 5:00 pm.]]></description>
+										<content:encoded><![CDATA[
+<p>Empezamos campaña de vacunación antirrábica, esperamos la asistencia de tus peluditos este 11 de mayo en el Hogar de paso de 1:00 pm a 5:00 pm.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hogarcai.netlify.app/2024/04/05/jornada-de-vacunacion/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>CAMINATA CANINA</title>
+		<link>https://hogarcai.netlify.app/2024/04/05/caminata-canina/</link>
+					<comments>https://hogarcai.netlify.app/2024/04/05/caminata-canina/#respond</comments>
+		
+		<dc:creator><![CDATA[Alexandra]]></dc:creator>
+		<pubDate>Fri, 05 Apr 2024 16:39:14 +0000</pubDate>
+				<category><![CDATA[Actividades]]></category>
+		<guid isPermaLink="false">https://hogarcai.netlify.app/?p=1565</guid>
+
+					<description><![CDATA[Este sábado 02 de mayo de 2024, tendremos nuestra primera Caminata Canina del año programada a una de las veredas del Municipio de Duitama. Tendrás un momento único para conectarte con tu peludito&#160; o peludita &#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p>Este sábado 02 de mayo de 2024, tendremos nuestra primera Caminata Canina del año programada a una de las veredas del Municipio de Duitama. Tendrás un momento único para conectarte con tu peludito&nbsp; o peludita y será un momento propicio para socializar con otros dueños y animales de compañía. El valor de la inscripción tiene un costo de $5.000 por Mascota, los fondos que se recojan serán destinados para solventar los gastos de los animalitos que se encuentran en el Hogar de paso transitorio CAI LA DORADA, como Alimentación y gastos veterinarios. Te esperamos!!!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hogarcai.netlify.app/2024/04/05/caminata-canina/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
